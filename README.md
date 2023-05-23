@@ -1,5 +1,7 @@
 # Cryptocurrency Market Data Analysis and Tracking Project
 
+Welcome to my personal project that aims at analyzing and tracking the cryptocurrency market. The goal is to collect and clean market data to calculate useful metrics for analyzing key cryptocurrencies. I intend to build an interactive plotly dashboard that provides insights through visualizing key metrics on different charts. Users will be able to filter data by date ranges and cryptocurrencies. So far I have processed the necessary data and next steps include designing the dashboard layout, adding the filtering components and charts. Ultimately, my vision is to create an actionable cryptocurrency tracking dashboard that provides valuable insights through intuitive data visualization.
+
 ## Install
 
 Simply install the python package:
